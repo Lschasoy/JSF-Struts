@@ -1,0 +1,31 @@
+.tabla{
+
+       border: solid 2px #AEAEAE ;
+       border-collapse: collapse;
+       color: #424242;
+       font-weight: bold;
+}
+
+
+ .cabeceraTabla{
+
+   color: #FFFFFF;
+   background: #A080FF;
+   padding:5px;
+
+}
+
+
+.fila1{
+
+   text-align: center;
+   background:#FFFFFF;
+
+}
+.fila2{
+
+   text-align: center;
+   background:#EFEFFB;
+   border: solid 2px #2E2EFE;
+
+   }
